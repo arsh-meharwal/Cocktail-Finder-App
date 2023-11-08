@@ -14,9 +14,7 @@ const Wrapper = styled.div`
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
   }
-  @media screen and (max-width: 480px) {
-    width: 100%
-  } 
+  
 `;
 
 export default Wrapper;
