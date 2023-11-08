@@ -172,6 +172,7 @@ ul {
   margin-bottom: 1rem;
   border-color: transparent;
   border-radius: var(--borderRadius);
+  
 }
 
 .alert-danger {
@@ -267,3 +268,15 @@ PROJECT CSS
   margin: 0 auto;
   padding: 0 4rem;
 }
+@media screen and (max-width: 480px) {
+    .page{
+      padding: 0 0.4rem;
+      }
+
+
+  /* .project-container {
+    display: flex;
+    justify-content: space-between;
+  } */
+}
+

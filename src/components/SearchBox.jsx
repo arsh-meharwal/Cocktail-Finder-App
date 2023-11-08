@@ -5,8 +5,8 @@ function SearchBox() {
   return (
     <Wrapper>
         <form className='form'>
-            <input type='text' name='search' className='form-input' placeholder='type to search any drink'/>
-            <button className='btn' type='submit'>Submit</button>
+            <input type='text' name='search' className='form-input' placeholder='Search any Drink'/>
+            <button className='btn' type='submit'>Search</button>
         </form>
     </Wrapper>
   )
